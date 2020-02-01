@@ -1,0 +1,11 @@
+d:\Code\Projects\FileRenameByRegexPattern\obj\Debug\netcoreapp3.1\FileRenameByRegexPattern.csprojAssemblyReference.cache
+d:\Code\Projects\FileRenameByRegexPattern\obj\Debug\netcoreapp3.1\FileRenameByRegexPattern.AssemblyInfoInputs.cache
+d:\Code\Projects\FileRenameByRegexPattern\obj\Debug\netcoreapp3.1\FileRenameByRegexPattern.AssemblyInfo.cs
+D:\Code\Projects\FileRenameByRegexPattern\bin\Debug\netcoreapp3.1\FileRenameByRegexPattern.exe
+D:\Code\Projects\FileRenameByRegexPattern\bin\Debug\netcoreapp3.1\FileRenameByRegexPattern.deps.json
+D:\Code\Projects\FileRenameByRegexPattern\bin\Debug\netcoreapp3.1\FileRenameByRegexPattern.runtimeconfig.json
+D:\Code\Projects\FileRenameByRegexPattern\bin\Debug\netcoreapp3.1\FileRenameByRegexPattern.runtimeconfig.dev.json
+D:\Code\Projects\FileRenameByRegexPattern\bin\Debug\netcoreapp3.1\FileRenameByRegexPattern.dll
+D:\Code\Projects\FileRenameByRegexPattern\bin\Debug\netcoreapp3.1\FileRenameByRegexPattern.pdb
+D:\Code\Projects\FileRenameByRegexPattern\obj\Debug\netcoreapp3.1\FileRenameByRegexPattern.dll
+D:\Code\Projects\FileRenameByRegexPattern\obj\Debug\netcoreapp3.1\FileRenameByRegexPattern.pdb
