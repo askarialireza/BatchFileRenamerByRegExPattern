@@ -12,7 +12,7 @@
 
             string _folderPath = System.Console.ReadLine();
 
-            if (string.IsNullOrWhiteSpace(_folderPath) != false)
+            if (string.IsNullOrWhiteSpace(_folderPath) != true )
             {
                 Infrastructure.Utility.RenameFileByRegExPattern
                     (path: _folderPath, regexPattern: _regExPattern, replacedString: _replacedString);
